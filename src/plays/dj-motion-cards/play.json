@@ -1,7 +1,9 @@
 {
   "name": "DJ Motion Cards",
+  "slug": "dj-motion-cards",
   "description": "Animated DJ profile cards using React and Framer Motion.",
   "author": "Iván",
   "github": "https://github.com/ivandiaz333",
+  "path": "src/plays/dj-motion-cards/DJMotionCards.tsx",
   "tags": ["react", "motion", "animation", "cards", "music"]
 }
